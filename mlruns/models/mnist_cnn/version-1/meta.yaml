@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731534652559
+current_stage: None
+description: ''
+last_updated_timestamp: 1731534652559
+name: mnist_cnn
+run_id: f2be581ac2144541b85f32b1555dcd1a
+run_link: ''
+source: mlflow-artifacts:/0/f2be581ac2144541b85f32b1555dcd1a/artifacts/mnist_cnn
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/f2be581ac2144541b85f32b1555dcd1a/artifacts/mnist_cnn
+user_id: null
+version: 1

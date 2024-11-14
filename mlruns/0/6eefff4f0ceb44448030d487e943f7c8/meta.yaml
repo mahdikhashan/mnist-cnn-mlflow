@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6eefff4f0ceb44448030d487e943f7c8/artifacts
+end_time: 1731534145287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eefff4f0ceb44448030d487e943f7c8
+run_name: secretive-goat-239
+run_uuid: 6eefff4f0ceb44448030d487e943f7c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731534139663
+status: 4
+tags: []
+user_id: mahdikhashan
