@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/853581c88a0b445a9f45b85e7358027a/artifacts
+end_time: 1731585077560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 853581c88a0b445a9f45b85e7358027a
+run_name: incongruous-jay-37
+run_uuid: 853581c88a0b445a9f45b85e7358027a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731585048948
+status: 4
+tags: []
+user_id: mahdikhashan

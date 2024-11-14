@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/be0ae1b306d54125b09a0a6f7aa09004/artifacts
+end_time: 1731588191032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be0ae1b306d54125b09a0a6f7aa09004
+run_name: colorful-jay-610
+run_uuid: be0ae1b306d54125b09a0a6f7aa09004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731587727407
+status: 3
+tags: []
+user_id: mahdikhashan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/38a77c51d21f4a188bb484c60252bcac/artifacts
+end_time: 1731587698304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38a77c51d21f4a188bb484c60252bcac
+run_name: capricious-skunk-268
+run_uuid: 38a77c51d21f4a188bb484c60252bcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731587368161
+status: 3
+tags: []
+user_id: mahdikhashan

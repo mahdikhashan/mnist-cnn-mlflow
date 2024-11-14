@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b66111537b764bbeba9f51550a61b2c7/artifacts
+end_time: 1731586943128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b66111537b764bbeba9f51550a61b2c7
+run_name: gaudy-roo-95
+run_uuid: b66111537b764bbeba9f51550a61b2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731585148679
+status: 3
+tags: []
+user_id: mahdikhashan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8b02eb1549b7484799f491417dbf6f17/artifacts
+end_time: 1731589533565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b02eb1549b7484799f491417dbf6f17
+run_name: defiant-shark-869
+run_uuid: 8b02eb1549b7484799f491417dbf6f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731588884746
+status: 3
+tags: []
+user_id: mahdikhashan

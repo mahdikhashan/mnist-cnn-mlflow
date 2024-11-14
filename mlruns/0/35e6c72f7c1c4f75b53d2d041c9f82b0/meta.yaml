@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/35e6c72f7c1c4f75b53d2d041c9f82b0/artifacts
+end_time: 1731588719747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35e6c72f7c1c4f75b53d2d041c9f82b0
+run_name: clumsy-ram-59
+run_uuid: 35e6c72f7c1c4f75b53d2d041c9f82b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731588716240
+status: 4
+tags: []
+user_id: mahdikhashan

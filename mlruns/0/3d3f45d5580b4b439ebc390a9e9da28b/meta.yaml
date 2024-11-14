@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3d3f45d5580b4b439ebc390a9e9da28b/artifacts
+end_time: 1731588821807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d3f45d5580b4b439ebc390a9e9da28b
+run_name: colorful-auk-653
+run_uuid: 3d3f45d5580b4b439ebc390a9e9da28b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731588818461
+status: 4
+tags: []
+user_id: mahdikhashan

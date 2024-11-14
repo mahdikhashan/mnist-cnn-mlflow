@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c478c1487a8f4189a12b90955237030f/artifacts
+end_time: 1731588546224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c478c1487a8f4189a12b90955237030f
+run_name: trusting-doe-775
+run_uuid: c478c1487a8f4189a12b90955237030f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731588542207
+status: 4
+tags: []
+user_id: mahdikhashan
